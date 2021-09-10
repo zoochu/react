@@ -1,0 +1,18 @@
+[
+   
+    {
+      "country": "1차 접종자",
+      "hot dog": 300,
+      "hot dogColor": "hsl(62, 70%, 50%)",
+      "burger":98,
+      "burgerColor": "hsl(0, 70%,50%)"
+    },
+    {
+        "country": "2차 접종자",
+        "hot dog": 700,
+        "hot dogColor": "hsl(62, 70%, 50%)",
+  
+        "burger":30,
+        "burgerColor": "hsl(0, 70%,50%)"
+      }
+  ]

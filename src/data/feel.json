@@ -1,0 +1,29 @@
+{
+    "DESCRIPTION" : {
+        "YEAR":"년",
+        "MONTH":"월",
+        "CORONA":"확진자 수"
+        },
+    "DATA" : [
+    {"year":"2020년","month":"1월","corona":0},
+    {"year":"2020년","month":"2월","corona":2},
+    {"year":"2020년","month":"3월","corona":3},
+    {"year":"2020년","month":"4월","corona":2},
+    {"year":"2020년","month":"5월","corona":0},
+    {"year":"2020년","month":"6월","corona":3},
+    {"year":"2020년","month":"7월","corona":0},
+    {"year":"22020년","month":"8월","corona":17},
+    {"year":"2020년","month":"9월","corona":3},
+    {"year":"2020년","month":"10월","corona":1},
+    {"year":"2020년","month":"11월","corona":54},
+    {"year":"2020년","month":"12월","corona":77},
+    {"year":"2021년","month":"1월","corona":34},
+    {"year":"2021년","month":"2월","corona":19},
+    {"year":"2021년","month":"3월","corona":28},
+    {"year":"2021년","month":"4월","corona":24},
+    {"year":"2021년","month":"5월","corona":77},
+    {"year":"2021년","month":"6월","corona":175},
+    {"year":"2021년","month":"7월","corona":78},
+    {"year":"2021년","month":"8월","corona":36}
+    ]
+}

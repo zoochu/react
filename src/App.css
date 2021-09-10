@@ -1,0 +1,80 @@
+
+.grap{height:600px;}
+.grap svg{ fill: red !important;}
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-decoration: none;
+}
+.App > header{text-decoration: none;}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.first{
+  text-align: center;
+  font-size: 15px;
+  padding: 2% 10%;
+}
+
+.first > .mean{ 
+  padding: 2% 15%;
+  font-weight: 500;
+  line-height: 30px;
+  
+}
+.first > .chart{
+  margin-left: 18%;
+}
+.header{
+  text-align: center;  
+  padding-top: 20px;
+  /* padding:0 100%; */
+  padding-bottom: 20px;
+  background-color: rgba(0, 0, 0, 0.925);
+  /* position: fixed; */
+  z-index: 999;
+}
+.color{
+  color:rgb(255, 255, 255);
+  font-weight:bolder;
+  text-decoration: none;
+  padding: 25px;
+
+}
+.second{padding:3% 25%;}
+.third{padding:3% 25%;}
+.fourth{padding:3% 35%;}
